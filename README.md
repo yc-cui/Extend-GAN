@@ -83,3 +83,17 @@ We are benefiting a lot from the following projects:
 - [Boundless-in-Pytorch](https://github.com/recong/Boundless-in-Pytorch)
 
 - [Palette-Image-to-Image-Diffusion-Models](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)
+
+If you find this work useful, please cite:
+```
+@ARTICLE{10413911,
+  author={Cui, Yongchuan and Liu, Peng and Song, Bingze and Zhao, Lingjun and Ma, Yan and Chen, Lajiao},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Reconstruction of Large-Scale Missing Data in Remote Sensing Images Using Extend-GAN}, 
+  year={2024},
+  volume={21},
+  number={},
+  pages={1-5},
+  keywords={Training;Earth;Artificial satellites;Generative adversarial networks;Spatial resolution;Remote sensing;Image reconstruction;Generative adversarial network (GAN);image reconstruction;remote sensing images;triplet loss},
+  doi={10.1109/LGRS.2023.3317898}}
+```
